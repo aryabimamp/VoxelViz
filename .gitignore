@@ -1,0 +1,17 @@
+# rendered frame folders (large, reproducible)
+voxel_3d_frames/
+voxel_drop_frames/
+*_frames/
+
+# scratch scripts
+parse_pdf.py
+presentation_parsed.md
+
+# Python
+__pycache__/
+*.py[cod]
+.env
+
+# OS
+.DS_Store
+Thumbs.db
