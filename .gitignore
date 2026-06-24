@@ -5,7 +5,9 @@ voxel_drop_frames/
 
 # scratch scripts
 parse_pdf.py
+parse_pdf2.py
 presentation_parsed.md
+paper_parsed.md
 
 # Python
 __pycache__/

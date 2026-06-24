@@ -4,7 +4,9 @@
 
 VoxelViz converts 3D mesh models (OBJ, STL, PLY, etc.) into voxel representations and animates their construction in real time — block by block, layer by layer, or generatively — making 3D spatial structure intuitively understandable.
 
-*Geometric Modelling 2025 · Vincent Jovian Christanto & Aryabima Mandala Putra*
+*Geometric Modelling 2025 · Vincent Jovian Christanto & Aryabima Mandala Putra · National Tsing Hua University*
+
+📄 [Survey Paper](VoxelViz_paper.pdf) · 📊 [Presentation Slides](VoxelViz_presentation.pdf)
 
 ---
 
